@@ -1,3 +1,8 @@
+#### P.S.
+```
+alacritty migrate -c .alacritty-dropdown.yml
+```
+
 # Alacritty Dropdown
 
 This program provides drop-down functionality to Alacritty terminal emulator on
